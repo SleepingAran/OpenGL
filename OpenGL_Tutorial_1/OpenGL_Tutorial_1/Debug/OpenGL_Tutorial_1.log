@@ -1,0 +1,10 @@
+﻿Build started 6/14/2016 7:25:40 PM.
+     1>Project "D:\VisualStudio\OpenGL_Tutorial_1\OpenGL_Tutorial_1\OpenGL_Tutorial_1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VisualStudio\OpenGL_Tutorial_1\Debug\OpenGL_Tutorial_1.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib glut32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VisualStudio\OpenGL_Tutorial_1\Debug\OpenGL_Tutorial_1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VisualStudio\OpenGL_Tutorial_1\Debug\OpenGL_Tutorial_1.lib" /MACHINE:X86 Debug\OpenGL_Tutorial_1.obj
+         OpenGL_Tutorial_1.vcxproj -> D:\VisualStudio\OpenGL_Tutorial_1\Debug\OpenGL_Tutorial_1.exe
+     1>Done Building Project "D:\VisualStudio\OpenGL_Tutorial_1\OpenGL_Tutorial_1\OpenGL_Tutorial_1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
